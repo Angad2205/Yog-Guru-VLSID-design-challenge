@@ -8,3 +8,4 @@ thereby fostering physical fitness, mental well-being, and stress reduction
 
 Hardware Platform Selected: NXP Edge Ready Smart HMI Solution Based on i.MX RT117H with ML Vision, Voice, and
 Graphical UI
+ ![Image Alt](https://github.com/Angad2205/Yog-Guru-VLSID-design-challenge/blob/c0a4ad1f68de316b1d71163562913ad7e87ab87c/EMPTY%20(5).png)
