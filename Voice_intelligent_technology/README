@@ -1,1 +1,17 @@
+WakeWord supported : 
+    WW_Id  : WW_Name
+      1    : HEY GURU
+
+Voice Commands supported
+    Cmd_Id : Cmd_Name
+      0    : UNKNOWN
+      1    : HOME
+      2    : SETTINGS
+      3    : START SESSION
+      4    : USER MANUAL
+      5    : FEEDBACK
+      6    : BACK
+      7    : NEXT
+      8    : POWER TOGGLE
+      9    : EXIT SESSION
 
